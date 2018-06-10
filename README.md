@@ -1,2 +1,2 @@
 # curriculum-vitae
-have a curriculum vitae
+ curriculum vitae
