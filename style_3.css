@@ -1,0 +1,46 @@
+*{
+    font-family: "微软雅黑";
+}
+h1,h2,p,h3{
+    margin:0;
+    padding: 0;
+}
+h1{
+    background-color: #666;
+    color: #FFF;
+    height: 120px;
+    line-height: 120px;
+
+}
+h1 p{
+    margin-left: 50px;
+}
+.one{
+    height: 200px;
+    margin-bottom: 5px;
+    border-top:2px solid #CCC; 
+}
+.container h2{
+    background-color: #CCC;
+    height: 200px;
+    font-size: 20px;
+    width: 195px;
+    text-align: center;
+    line-height: 200px;
+}
+
+.one h3{
+    float: left;
+    font-size: 1em;
+    margin-top: 20px;
+    margin-left: 20px;
+
+}
+.one p,.one strong{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.one h2{
+    float: left;
+
+}
